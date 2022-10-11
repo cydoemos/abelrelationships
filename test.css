@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+<div class="body">
+
+<div class="button ichi">Story</div>
+<div class="button ni">About</div>
+<div class="button san">Status</div>
+<div class="button yon">Chapter</div>
+
+<div class="poem"><i>
+
+
+
+<div class="one">Do not be afraid; our fate</div> &nbsp; &nbsp; 
+<div class="two">cannot be taken from us;</div> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<div class="three">it is a gift.</div> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+<div class="four"> --Inferno, Dante Alighieri</div></i>
+</div>
+
+
+
+<div class="bodyone">
+
+
+Nestled in the heart of Nemara, Veneficus--the city of magic and technology--thrives. It is the home and birthplace of magic--gifted by the world tree in which it lays nestled. Mana courses through the roots, through the ground, and into the world, granting Veneficus's citizens their abilities. 
+
+It is the home to all those with magical abilities. Its citizens have never known another life--lives without magic, without peace, without ease. By all means, Veneficus is utopia; blocked off from the world outside, away from turmoil and struggle.
+
+Join the citizens as they live their day to day life, enjoying a peaceful life in the village of magic.</div>
+
+<div class="bodytwo">
+
+
+
+Mura no Mahou is a <u>discord-based roleplaying group.</u> Having a discord is now necessary to participate in the group—all events, announcements, and event roleplays will now take place exclusively within the group. The group’s main theme is slice of life,but the group will soon introduce a plotline related to the backstory and eventual expansion of the world. 
+
+Story roleplay will be light combat which members will be allowed to ad-lib within reason. Participating in the plot is highly encouraged but not required. </div>
+
+<div class="bodythree">
+
+
+
+
+Reservations: | open |
+
+Applications: | closed |
+
+Discord: | open |</div>
+
+<div class="bodyfour">
+
+<div align="left">|| Current chapter: 0 | Birthrights and Love</div>
+
+<div class="eng">歌う静謐
+水晶柔く光散って
+闇の去り行く暁独り思う</div>
+<div class="jap">a song of peace
+and a crystal to scatter the light
+the darkness leaves, like the memory of a sunrise
+</div></div>
+
+</div>
+
+
+<a href="https://discord.gg/S2Z2W3g"><div class="ebutton discord">Discord</div></a><a href="https://onedrive.live.com/?authkey=%21AFv4X-cYJXgHGhE&amp;cid=EEC13F6BCC7AF1D9&amp;id=EEC13F6BCC7AF1D9%2117967&amp;parId=root&amp;o=OneUp"><div class="ebutton inform">Information</div></a>
+
+
+
+
+
+<hr>
+
+&nbsp; &nbsp; There was a time the when elder dragons ruled the world. 
+
+&nbsp; &nbsp; It is a story every child, of every family, race, and creed, knows: the time when the dragons roamed free. 
+
+&nbsp; &nbsp; Once, the world was nothing. It was empty, made only from dirt, rock, and sea. It was this barren landscape to which the dragons came, brought to life on the earth from the cosmic energy of an exploded star. Dragons were creatures made of pure magic; it was the power of their existence alone that brought fruitfulness to the landscape, to the earth. 
+
+&nbsp; &nbsp; For eons, this was peace to the gentle creatures. Their magic fed the earth and the earth fed them. Over time, the difference between the land and dragons stopped existing. Life had begun to build itself not around, but onto the dragons. Ecosystems grew on their backs, flora and fauna thriving off of the innate magical energy of the ancient beasts.
+
+&nbsp; &nbsp; Yet, like most creatures, the dragons' lifespan began to dwindle. One by one, they began to die off. Their energy had run thin--they had almost nothing left of themselves to give to the world that they had both created and been created by. 
+
+&nbsp; &nbsp; Before they left, the dragons gave Nemara one last gift. The last piece of themselves, their infinite wisdom. Each dragon, on their unique ecosystems, created the great races from the soil, the sand. Every individual race got a piece of the dragon whom they were shaped from, carrying on the legacy of the Elder Gods who had granted the universe the gift of life.
+
+&nbsp; &nbsp; The dragons have long since disappeared. Now, they are no more than a fairytale. Yet it is still the draconian magic that courses through the veins of the earth, the plants, the people. Only one relic of their time remains: the great tree, flourishing on the remnants of their energy. It stands, now, as a test of time. To this day, it still grants the people of Nemara the love of the Elders.
+
+* {background: transparent; border: none; margin: 0; padding: 0;}
+
+.commentslink, .gr-top span, .gr-top{display:none;}
+
+
+.gr-top img{display:none;}
+.gr {padding: 0px 5px 0px 5px !important;}
+li.a.f{background:transparent;}
+
+.gr-body{
+background: black;
+padding: 30px;
+padding-top: 50px;
+background-image: url("https://thumbs.gfycat.com/RecentPrestigiousAmericancrayfish-max-1mb.gif");
+background-repeat: no-repeat;
+ background-attachment: sticky;
+}
+
+.body{
+text-align: center;
+font-family: Courier New, monospace;
+color: white;
+text-transform: lowercase;
+font-size: 11px;}
+
+.name{
+font-size: 15px;
+border-bottom: 1px solid;
+width: 130px;
+position: relative;
+margin: auto;}
+
+.small{
+line-height: .5;}
+
+.quote{
+width: 200px;
+text-align: left;
+font-style: italic;
+position: absolute;
+line-height: 1.2;
+border-left: 1px solid rgba(255,255,255,0.5);
+padding: 5px;
+left: 51%;}
+
+.author{
+text-align: right;}
+
+.button{
+border: 1px solid;
+margin: auto;
+margin-top: 5px;
+text-align: center;
+padding: 5px;
+width: 100px;
+transition: all .8s;}
+
+.button:hover{
+background-color: rgba(255, 255, 255, 0.3);
+letter-spacing: 2px;}
+
+a{color:white; text-decoration:none;}
+
+
+img{
+opacity: 0.5;
+transition: all .5s;}
+
+img:hover {
+  opacity: 1.0;}
+
+.imgs{
+position: absolute;
+right: 50%;}
+
+.imgbox{
+margin: auto;
+height: 100px;}
+
+.interests{
+width: 300px;
+margin: auto;}
